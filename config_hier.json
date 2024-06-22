@@ -1,0 +1,9 @@
+{
+    "root_directory": "./",
+    "image_without_noise": "input_image/F16_GT.png",
+    "model_type": "hier_DIP",
+    "num_noisy_images": 100,
+    "num_epochs": 1500,
+    "learning_rate": 1e-2,
+    "output_model_name": "best_model.pth"
+}
